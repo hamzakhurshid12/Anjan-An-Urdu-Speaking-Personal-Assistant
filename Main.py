@@ -1,5 +1,5 @@
 # Anjan-An-Urdu-Speaking-Personal-Assistant
-This is a python based personal Assistant which can listen to your commands in Urdu language, it can perform some various functions such as minimizing, browsing through files, playing songs for you,answering your questions, telling you time, introducing itself to you, and Checking weather for your location. Everything is processed in Urdu. Love Urdu,  Love Pakistan!
+#This is a python based personal Assistant which can listen to your commands in Urdu language, it can perform some various functions such as minimizing, browsing through files, playing songs for you,answering your questions, telling you time, introducing itself to you, and Checking weather for your location. Everything is processed in Urdu. Love Urdu,  Love Pakistan!
 
 import speech_recognition as sr
 from mtranslate import translate as tr
